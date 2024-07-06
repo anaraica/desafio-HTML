@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centro de arritmias cardíacas</title>
+    <link>
+</head>
+<body> 
+     <div class="container">
+
+
+
+
+
+     </div>
+    <img src="https://centrodearritmiascardiacas.com.br/wp-content/uploads/2021/05/Logo-ESCURO-Centro-de-Arritmias-1-1.png"alt="interior da clínica" 
+     width="1000"
+    height="100">
+       
+       
+    <div class="wrapper">
+        <div class="menu">
+            <h3>Índice</h3>
+        
+            <ul>
+                <li><a href="#serviços">Nossos serviços</a></li>
+                <li><a href="#atendimento">Horário de atendimento</a></li>
+                <li><a href="#contato">Contato</a></li>
+                <li><a href="#localização">Endereço</a></li>
+            </ul>
+                
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <header>
+              <br> <img src="https://www.hccardio.com.br/assets/images/fachada-1900x1092.jpg" alt="interio da clínica"
+                 width="350" 
+                 height="150">
+            
+        
+                </header>
+               <br> Na Clínica CardioVida, nos dedicamos a cuidar do seu coração com excelência e atenção personalizada. Nossa missão é proporcionar a você e sua família um atendimento completo e humanizado, focado na prevenção, diagnóstico e tratamento de doenças cardiovasculares.
+               <br> Aqui, a tecnologia de ponta se alia à experiência de uma equipe médica altamente qualificada para garantir o melhor cuidado possível para o seu coração.
+
+        
+    
+            </div>
+    
+            <div class="content">
+              <br> <h2 id="serviços">Nossos serviços</h2>
+              Consultas Especializadas:
+   Nossas consultas são realizadas por cardiologistas experientes, que escutam suas preocupações, revisam seu histórico médico e realizam exames físicos detalhados. A partir dessas informações, elaboramos um plano de tratamento personalizado, focado em suas necessidades específicas.
+
+<br><p> <b>Exames Diagnósticos Avançados :</b>
+   <br>- Eletrocardiograma (ECG): Avaliação elétrica do coração para identificar ritmos anormais e outras condições.
+  <br> - Ecocardiograma: Uso de ultrassom para visualizar a estrutura e função do coração.
+  <br> - Teste de Esforço: Monitoramento do coração enquanto você realiza exercícios, ajudando a detectar problemas que surgem durante a atividade física.
+  <br> - Monitoramento Holter: Registro contínuo da atividade cardíaca por 24 horas ou mais, para identificar arritmias e outros problemas.
+   <br>- Angiografia: Exame de imagem para visualizar as artérias coronárias e detectar bloqueios.
+
+<br> <p><b>Tratamento de Doenças Crônicas:</b>
+   <br>- Hipertensão: Gerenciamento da pressão arterial alta para prevenir complicações.
+   <br>- Insuficiência Cardíaca: Planos de tratamento abrangentes para melhorar a qualidade de vida e controlar os sintomas.
+  <br> - Arritmias: Tratamento de ritmos cardíacos anormais através de medicação, ablação ou dispositivos implantáveis.
+
+  <h3 id="atendimento">Horário de Atendimento</h3>
+  <p>Conheça nossos serviços e horários de atendimento:</p>
+  <table>
+      <thead>
+          <tr>
+              <th>Serviço</th>
+              <th>Segunda a Sexta</th>
+              <th>Sábados</th>
+              <th>Feriados</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr> 
+              <td>Clínica geral</td>
+              <td>08h - 19h</td>
+              <td>08h - 14h</td>
+              <td>08h - 14h</td>
+          </tr>
+          
+          <tr>
+              <td>Pediatria</td>
+              <td>08h - 19h</td>
+              <td>08h - 18h</td>
+              <td>-</td>
+          </tr>
+
+          <tr>
+          </tr>
+      </tbody>
+  </table>
+</div>
+<div id="content">
+    <h3 id="contato">Entre em Contato</h3>
+    <p></p>
+        
+  
+    <ul>
+        <li>Telefone: (18) 1234-5678</li>
+        <li>Whatsapp: (18) 98765-4321</li>
+        <li>Endereço: Av. Principal, 1111- Centro, Cidade: Birigui - SP</li>
+       <br><h5>Cadastrar para receber mais informações :</h5>
+        <form action="#nome" method="POST">
+            <label for="nome">Nome:</label>
+             <input type="text" id="nome" name="nome" required>
+              <p> <label for="number">Telefone</label>
+               <input type="number" id= "telefone" required>
+                <p> <label for="email">E-mail:</label>
+                 <input type="email" id="email" name="email" required>
+                  <p> <button type="submit">Enviar</button>
+    </ul>
+
+   
+    <h2 id="localização">Localização</h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1720217149510!6m8!1m7!1sJG63PMDjZ0PJ5QmXv9UEkw!2m2!1d-21.28704520018673!2d-50.34314433536936!3f291.1817073903204!4f7.981922738248841!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" > 
+</iframe>
+                
+            </div>
+    
+            <div class="footer">
+               
+             <footer> 
+
+                  <p>&copy; 2024 <b>Centro de arritmias cardíacas</b>. Todos os direitos reservados.</p>
+        
+                </footer>
+
+                
+                
+            </div>
+        </div>
+    </div>
+</body>
+</html>
